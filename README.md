@@ -3,6 +3,6 @@
 ### Please copy paste below code 
 ```
 module namespace { 
-    source = "farrukh90/namespace/kubernetes"
+    source = "mariadubita/namespace/kubernetes"
 }
 ```
